@@ -1,0 +1,14 @@
+[
+    {
+        "link": "/",
+        "text": "about"
+    },
+    {
+        "link": "/experience",
+        "text": "experience"
+    },
+    {
+        "link": "/writing",
+        "text": "writing"
+    }
+]
