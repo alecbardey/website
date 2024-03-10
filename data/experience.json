@@ -1,0 +1,36 @@
+[
+    {
+        "name": "<company 2>",
+        "link": "<company 2 link>",
+        "logo": "<company 2 logo path>",
+        "location": "<company 2 city",
+        "roles": [
+            {
+                "title": "<role 2>",
+                "description": "<role 2 description>",
+                "start": "<start date>",
+                "end": "<end date>"
+            },
+            {
+                "title": "<role 1>",
+                "description": "<role 1 description>",
+                "start": "<start date>",
+                "end": "<end date>"
+            }
+        ]
+    },
+    {
+        "name": "<college>",
+        "link": "<college link>",
+        "logo": "<college logo path>",
+        "location": "<college location>",
+        "roles": [
+            {
+                "title": "Student",
+                "description": "<student major and courses description>",
+                "start": "<matriculation>",
+                "end": "<graduation>"
+            }
+        ]
+    }
+]
