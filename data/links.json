@@ -1,0 +1,18 @@
+[
+    {
+        "link": "mailto:<email>",
+        "label": "email"
+    },
+    {
+        "link": "https://github.com/<username>"
+    },
+    {
+        "link": "https://twitter.com/<username>"
+    },
+    {
+        "link": "https://notion.so/<username>"
+    },
+    {
+        "link": "https://substack.com/profile/<username>"
+    }
+]
