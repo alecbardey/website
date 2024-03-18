@@ -1,142 +1,99 @@
 [
     {
-        "name": "Hyperlane",
-        "link": "https://hyperlane.xyz/",
-        "logo": "hyperlane.png",
+        "name": "University of Chicago Urban Labs",
+        "link": "https://educationlab.uchicago.edu/",
+        "logo": "university_of_chicago_education_lab_logo.jpeg",
         "location": "New York City",
         "roles": [
             {
-                "title": "Co-founder, Protocol Engineer",
-                "description": "Solving fragmentation of blockchain networks with a modular interoperability protocol. Built for seamless developer experience across scaling solutions and rollups. Used by Aave.",
-                "start": "April 2022",
+                "title": "Data Scientist",
+                "description": "• Develop scalable data processing pipelines for nationwide tutoring RCT in Python, R, makefile, and YAML.\n• Evaluate heterogenous treatment effects of tutoring implementation on ~10,000 students in study.\n• Support school district partners by building interactive data dashboards and training on-site technical staff.",
+                "start": "September 2022",
                 "end": "Present"
             }
         ]
     },
     {
-        "name": "Gauntlet",
-        "link": "https://gauntlet.network/",
-        "logo": "gauntlet.png",
-        "location": "San Francisco",
+        "name": "Marron Institute of Urban Management",
+        "link": "https://marroninstitute.nyu.edu/programs/human-exploitation-and-resilience",
+        "logo": "marron_logo_blue.png",
+        "location": "Brooklyn",
         "roles": [
             {
-                "title": "Smart Contract Engineer",
-                "description": "Built Gauntlet's 1st on-chain protocol: Aera Finance. Risk aware, capital efficient treasury management solution for DAOs. Audited by Spearbit. Would have prevented the Terra collapse.",
-                "start": "December 2021",
-                "end": "May 2022"
+                "title": "Quantitative Reserach Assistant",
+                "description": "• Led data procurement and cleaning efforts for Human Exploitation and Resiliency Initiative with Dr. Meredith Dank\n• Developed data approach for novel prevalence estimation methodology for human trafficking estimation in Belize",
+                "start": "November 2021",
+                "end": "June 2022"
             }
         ]
     },
     {
-        "name": "Celo",
-        "link": "http://celo.org/",
-        "logo": "celo-logo-color.png",
-        "location": "San Francisco",
+        "name": "Early Scholars Speech and Debate",
+        "link": "https://www.earlyscholars.org/",
+        "logo": "early_scholars_logo.jpeg",
+        "location": "New York",
         "roles": [
             {
-                "title": "Partner, Smart Contracts Lead",
-                "description": "Code owner on production contracts for stablecoin and phone number ownership protocols. Orchestrated DAO governance with security oriented contract release process leveraging OpenZeppelin audits and Certora formal verification.",
-                "end": "December 2021",
-                "start": "March 2020"
-            },
-            {
-                "title": "Contractor, Protocol Engineering",
-                "description": "Built first production implementation of Coinbase Rosetta, an abstraction used for exchange accounting, low level tracing of value transfer, and high security offline staking services for Coinbase Custody customers.",
-                "end": "March 2020",
-                "start": "August 2019"
-            },
-            {
-                "title": "Intern, Protocol Engineering",
-                "description": "Implemented Proof of Stake validator features and slashing conditions, optimized oracle exchange rate reporting for stablecoin protocol, and contributed to privacy preserving enhancements to proof of phone number ownership protocol.",
-                "end": "August 2019",
-                "start": "April 2019"
+                "title": "Teaching Associate",
+                "description": "• Tutored underserved 8-14 year-olds in the fundamentals of speech and debate\n• Managed student membership and developed online learning modules to enhance student learning and retention",
+                "end": "August 2020",
+                "start": "December 2021"
             }
         ]
     },
     {
-        "name": "Rice Blockchain",
-        "logo": "rice_blockchain.png",
-        "link": "https://medium.com/rice-blockchain",
-        "location": "Houston",
+        "name": "Bright Power",
+        "logo": "bright_power_logo.png",
+        "link": "https://www.brightpower.com/",
+        "location": "New York",
         "roles": [
             {
-                "title": "Founder, President",
-                "description": "Founded student organization focused on blockchain education, research, development and evangelism. Led 50+ members in maintaining a newsletter, organizing workshops, and meeting with industry professionals. Repeat host of Houston Ethereum Meetup.",
-                "end": "May 2020",
-                "start": "September 2017"
+                "title": "Benchmarking and Compliance Intern",
+                "description": "• Procured and analyzed over 700 building energy usage reports for compliance with Fannie Mae Green Loans\n• Streamlined data collection efforts by obtaining energy consumption data request processes for over 50 new utilities",
+                "end": "February 2021",
+                "start": "August 2021"
             }
         ]
     },
     {
-        "name": "Rice University",
-        "logo": "rice-university_logo.png",
-        "link": "https://www.rice.edu",
-        "location": "Houston",
+        "name": "Kleinman Center for Energy Policy",
+        "logo": "penn_logo.png",
+        "link": "https://kleinmanenergy.upenn.edu/",
+        "location": "Philadelphia",
         "roles": [
             {
-                "title": "Faculty Instructor",
-                "description": "Taught full-credit course (2x) in the CoFES Institute alongside Professor Manolo Sanchez and Topl founder / CTO James Aman.",
-                "end": "May 2020",
-                "start": "September 2018"
-            },
-            {
-                "title": " Student, Computer Science BSE",
-                "end": "May 2020",
-                "start": "September 2016"
+                "title": "Research Assistant",
+                "description": "• Assisted Dr. Steve Viscelli on project assessing viability and sustainability of autonomous electric truck fleet \n• Produced literature reviews to help drive key focus for research in largely unexplored area of autonomous freighting",
+                "end": "December 2019",
+                "start": "December 2020"
             }
         ]
     },
     {
-        "name": "IBM",
-        "link": "https://www.ibm.com/blockchain",
-        "logo": "IBM-Blockchain.jpeg",
-        "location": "New York City",
+        "name": "Department of Sociology, University of Pennsylvania",
+        "link": "https://sociology.sas.upenn.edu/",
+        "logo": "penn_logo.png",
+        "location": "Philadelphia",
         "roles": [
             {
-                "title": "Intern, Blockchain Garage",
-                "description": "Developed the IBM Blockchain Starter Kit: an open-source bootstrap tool for applications on Hyperledger. Includes build, test, deploy framework for goLang and NodeJS. Shipped a CLI for vastly improved developer experience.",
+                "title": "Research Assistant",
+                "description": "• Supported Dr. Courtney Boen on project using Twitter data to evaluate mental health impacts of high-profile police killings \n• Synthesized research; conducted preliminary regressions on initial data; formulated visualizations of text-based data",
+                "start": "August 2019",
+                "end": "December 2019"
+            }
+        ]
+    },
+    {
+        "name": "Penn Program on Opinion Research and Election Studies",
+        "link": "https://pores.upenn.edu/",
+        "logo": "penn_logo.png",
+        "location": "Philadelphia",
+        "roles": [
+            {
+                "title": "Research Assistant",
+                "description": "• Analyzed strategic census data to georeference refugee movements in Cyprus using ArcGIS \n• Integrated and cleaned large open-source data into functional dataset using R, STATA, and Excel",
                 "start": "May 2018",
-                "end": "August 2018"
-            }
-        ]
-    },
-    {
-        "name": "ConsenSys",
-        "link": "https://consensys.net/",
-        "logo": "consensys-logo.jpeg",
-        "location": "New York City",
-        "roles": [
-            {
-                "title": "Intern",
-                "description": "Built the first Token Curated Registry for the adChain registry, a whitelist of trusted advertisers for consumption by token holding web publishers. Shipped a generic ERC20 voting standard with partial locking and commit reveal scheme.",
-                "start": "May 2017",
-                "end": "August 2017"
-            },
-            {
-                "title": "Intern",
-                "description": "Worked on early smart contract prototypes like Proof of Physical Address: an automated protocol for verifying mailing address ownership with secrets sent via snail mail.",
-                "start": "June 2016",
-                "end": "August 2016"
-            }
-        ]
-    },
-    {
-        "name": "Bronx Science",
-        "link": "https://www.bxscience.edu/",
-        "logo": "bxscience-logo.jpeg",
-        "location": "New York City",
-        "roles": [
-            {
-                "title": "Robotics Programming & Electronics Lead",
-                "description": "Lead highly selective and competitive FRC team. Established freshmen Java, SolidWorks, and Eagle CAD bootcamps. Implemented PID fine motor controls and computer vision techniques",
-                "start": "September 2015",
-                "end": "May 2016"
-            },
-            {
-                "title": "Student",
-                "description": "Honor Roll and National Honors Society member. Alumni include Turing Award recipients Leslie Lamport and Martin Hellman.",
-                "start": "September 2012",
-                "end": "May 2016"
+                "end": "December 2018"
             }
         ]
     }
